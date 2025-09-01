@@ -9,6 +9,7 @@ import time
 import random
 import copy
 
+
 class Pixel:
     def __init__(self, dim):
         self.data = []
